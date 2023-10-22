@@ -40,13 +40,13 @@ class _HomePageState extends State<HomePage> {
                           ),
                           const SizedBox(width: 5),
                           Text(
-                            'John',
+                            'JohnDoe',
                             style: GoogleFonts.poppins(fontSize: 28),
                           ),
                         ],
                       ),
                       Text(
-                        'Today Sarurday, 14 Oct',
+                        'Today Saturday, 14 Oct',
                         style: GoogleFonts.poppins(color: Colors.grey[700]),
                       )
                     ],

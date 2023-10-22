@@ -46,7 +46,7 @@ class _HomePageState extends State<HomePage> {
                         ],
                       ),
                       Text(
-                        'Today Saturday, 14 Oct',
+                        'Today Sunday, 22 Oct',
                         style: GoogleFonts.poppins(color: Colors.grey[700]),
                       )
                     ],
